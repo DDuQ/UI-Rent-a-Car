@@ -1,0 +1,47 @@
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final\slnSirave\Control\bin\Debug\Control.dll
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final\slnSirave\Control\bin\Debug\Control.pdb
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final\slnSirave\Control\obj\Debug\Control.dll
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final\slnSirave\Control\obj\Debug\Control.pdb
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final\slnSirave\Control\obj\Debug\Control.csprojAssemblyReference.cache
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final\slnSirave\Control\bin\Debug\Modelo.dll
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final\slnSirave\Control\bin\Debug\Modelo.pdb
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final\slnSirave\Control\obj\Debug\Control.csproj.CopyComplete
+D:\Downloads\Proyecto Final\slnSirave\Control\bin\Debug\Control.dll
+D:\Downloads\Proyecto Final\slnSirave\Control\bin\Debug\Control.pdb
+D:\Downloads\Proyecto Final\slnSirave\Control\bin\Debug\Modelo.dll
+D:\Downloads\Proyecto Final\slnSirave\Control\bin\Debug\Modelo.pdb
+D:\Downloads\Proyecto Final\slnSirave\Control\obj\Debug\Control.csprojAssemblyReference.cache
+D:\Downloads\Proyecto Final\slnSirave\Control\obj\Debug\Control.csproj.CopyComplete
+D:\Downloads\Proyecto Final\slnSirave\Control\obj\Debug\Control.dll
+D:\Downloads\Proyecto Final\slnSirave\Control\obj\Debug\Control.pdb
+D:\Desktop\Proyecto Final\slnSirave\Control\bin\Debug\Control.dll
+D:\Desktop\Proyecto Final\slnSirave\Control\bin\Debug\Control.pdb
+D:\Desktop\Proyecto Final\slnSirave\Control\bin\Debug\Modelo.dll
+D:\Desktop\Proyecto Final\slnSirave\Control\bin\Debug\Modelo.pdb
+D:\Desktop\Proyecto Final\slnSirave\Control\bin\Debug\Modelo.dll.config
+D:\Desktop\Proyecto Final\slnSirave\Control\obj\Debug\Control.csprojAssemblyReference.cache
+D:\Desktop\Proyecto Final\slnSirave\Control\obj\Debug\Control.csproj.CopyComplete
+D:\Desktop\Proyecto Final\slnSirave\Control\obj\Debug\Control.dll
+D:\Desktop\Proyecto Final\slnSirave\Control\obj\Debug\Control.pdb
+D:\Desktop\Proyecto Final\slnSirave\Control\bin\Debug\Control.dll.config
+C:\Users\Usuario\Desktop\Proyecto Final (1)\Proyecto Final\slnSirave\Control\bin\Debug\Control.dll.config
+C:\Users\Usuario\Desktop\Proyecto Final (1)\Proyecto Final\slnSirave\Control\bin\Debug\Control.dll
+C:\Users\Usuario\Desktop\Proyecto Final (1)\Proyecto Final\slnSirave\Control\bin\Debug\Control.pdb
+C:\Users\Usuario\Desktop\Proyecto Final (1)\Proyecto Final\slnSirave\Control\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\Proyecto Final (1)\Proyecto Final\slnSirave\Control\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\Proyecto Final (1)\Proyecto Final\slnSirave\Control\bin\Debug\Modelo.dll.config
+C:\Users\Usuario\Desktop\Proyecto Final (1)\Proyecto Final\slnSirave\Control\obj\Debug\Control.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto Final (1)\Proyecto Final\slnSirave\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyecto Final (1)\Proyecto Final\slnSirave\Control\obj\Debug\Control.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Proyecto Final (1)\Proyecto Final\slnSirave\Control\obj\Debug\Control.dll
+C:\Users\Usuario\Desktop\Proyecto Final (1)\Proyecto Final\slnSirave\Control\obj\Debug\Control.pdb
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final (1)\Proyecto Final\slnSirave\Control\bin\Debug\Control.dll.config
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final (1)\Proyecto Final\slnSirave\Control\bin\Debug\Control.dll
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final (1)\Proyecto Final\slnSirave\Control\bin\Debug\Control.pdb
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final (1)\Proyecto Final\slnSirave\Control\bin\Debug\Modelo.dll
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final (1)\Proyecto Final\slnSirave\Control\bin\Debug\Modelo.pdb
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final (1)\Proyecto Final\slnSirave\Control\bin\Debug\Modelo.dll.config
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final (1)\Proyecto Final\slnSirave\Control\obj\Debug\Control.csprojAssemblyReference.cache
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final (1)\Proyecto Final\slnSirave\Control\obj\Debug\Control.csproj.CopyComplete
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final (1)\Proyecto Final\slnSirave\Control\obj\Debug\Control.dll
+D:\Desktop\Universidad\SEMESTRE 5\DESARROLLO DE SOFTWARE\Proyecto Final (1)\Proyecto Final\slnSirave\Control\obj\Debug\Control.pdb
